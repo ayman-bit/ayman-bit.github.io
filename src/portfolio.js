@@ -46,7 +46,7 @@ const projects = [
     description:
       'U-Calendar is a desktop calendar application specifically designed for students to facilitate managing multiple courses. The calendar is based on the standard semester layout and offers a variety of features to make scheduling easier. While the main focus of this application is to provide a functional calendar, it also includes a customizable notebook and a planner to keep track of assignments and deadlines. ',
     stack: ['Java', 'JavaFx','Maven', 'Git'],
-    sourceCode: 'https://github.com/mosh-exe/U-Calendar',
+    sourceCode: 'https://github.com/ayman-bit/U-Calendar',
   },
   {
     name: 'Game Of Life',
