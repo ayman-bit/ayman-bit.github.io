@@ -34,7 +34,7 @@ const projects = [
     stack: ['BeautifulSoup', 'Python', 'Shell'],
     sourceCode: 'https://github.com/ayman-bit/ImageFiltering',
   },
-    {
+  {
     name: 'EEAlgorithm',
     description:
       'This Algorithm will allow the user to compute the private-key. ',
