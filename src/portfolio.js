@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://ayman-bit.github.io/portfolio',
-  // title: 'Ayman Abu Awad',
+  homepage: 'https://github.com/ayman-bit',
+  title: 'My Github Code',
 }
 
 const about = {
@@ -23,9 +23,23 @@ const projects = [
   {
     name: 'Easy Receipt',
     description:
-      'Easy Receipt is a convenient approach to receiving and managing your daily transaction receipts. The product addresses the problems associated with paper receipts. Storing, managing, expense tracking, unreadable or fading print and returning an item without a receipt. In addition, Easy Receipt provides its users with the ability to receive electronic receipts without sacrificing their personal or work email inbox. Lastly, our product helps reduce the use of thermal coated bisphenol A (BPA) receipts which have negative health effects and are also non-recyclable.',
-    stack: ['HTML', 'JavaScript', 'Java', 'C++', 'Objective-C++', 'Starlark'],
+      'Easy Receipts is a mobile application that aims to provide users with a more intuitive and user-friendly experience when it comes to receiving receipts. With our app, users can enjoy the convenience of receiving clear and detailed receipts without having to sacrifice their personal or professional email addresses to unwanted promotional emails. Our app is designed to make the process of receiving, managing and organizing receipts hassle-free and easy for users.',
+    stack: ['React-Native','JavaScript', 'Java', 'HTML', 'C++', 'Objective-C++', 'Starlark'],
     sourceCode: 'https://github.com/ayman-bit/capstone-proj',
+  },
+  {
+    name: 'NeuralNetwork',
+    description:
+      'An artificial neural network consists of a sequence of  layers each of which consists of one or more neurons, or brain cells. Each neuron can be modelled as taking some number of inputs from the previous layer and calculating a weighted sum of these inputs to produce a single output which is fed to the neurons in the next layer.',
+    stack: ['Java'],
+    sourceCode: 'https://github.com/ayman-bit/NeuralNetwork',
+  },
+  {
+    name: 'U-Calendar',
+    description:
+      'U-Calendar is a desktop calendar application specifically designed for students to facilitate managing multiple courses. The calendar is based on the standard semester layout and offers a variety of features to make scheduling easier. While the main focus of this application is to provide a functional calendar, it also includes a customizable notebook and a planner to keep track of assignments and deadlines. ',
+    stack: ['Java', 'JavaFx','Maven', 'Git'],
+    sourceCode: 'https://github.com/ayman-bit/U-Calendar',
   },
   {
     name: 'ImageFiltering',
@@ -42,25 +56,11 @@ const projects = [
     sourceCode: 'https://github.com/ayman-bit/EEAlgorithm',
   },
   {
-    name: 'U-Calendar',
-    description:
-      'U-Calendar is a desktop calendar application specifically designed for students to facilitate managing multiple courses. The calendar is based on the standard semester layout and offers a variety of features to make scheduling easier. While the main focus of this application is to provide a functional calendar, it also includes a customizable notebook and a planner to keep track of assignments and deadlines. ',
-    stack: ['Java', 'JavaFx','Maven', 'Git'],
-    sourceCode: 'https://github.com/ayman-bit/U-Calendar',
-  },
-  {
     name: 'Game Of Life',
     description:
       'The Game of Life, also known simply as Life. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.',
     stack: ['Java'],
     sourceCode: 'https://github.com/ayman-bit/Game-Of-Life',
-  },
-  {
-    name: 'NeuralNetwork',
-    description:
-      'An artificial neural network consists of a sequence of  layers each of which consists of one or more neurons, or brain cells. Each neuron can be modelled as taking some number of inputs from the previous layer and calculating a weighted sum of these inputs to produce a single output which is fed to the neurons in the next layer.',
-    stack: ['Java'],
-    sourceCode: 'https://github.com/ayman-bit/NeuralNetwork',
   },
   {
     name: 'TicTacToe',
