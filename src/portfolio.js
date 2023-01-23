@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://ayman-bit.github.io/portfolio',
-  title: 'ayman Abu Awad',
+  // title: 'Ayman Abu Awad',
 }
 
 const about = {
